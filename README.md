@@ -1,6 +1,6 @@
 # Pharmacy Shop
 
-I Developed a responsive pharmacy shop website using HTML, CSS, and JavaScript. Integrated Google Fonts for typography, Google Maps API for location services, and Icon Remix API for iconography to enhance user experience.
+I developed a responsive pharmacy shop website using HTML, CSS, and JavaScript. Integrated Google Fonts for typography, Google Maps API for location services, and Icon Remix API for iconography to enhance user experience.
 
 ## Features
 
