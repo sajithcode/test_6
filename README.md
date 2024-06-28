@@ -24,7 +24,7 @@ The website is deployed on Netlify. You can view it [here](https://srs-pharmasho
 
 ## Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[![Demo Video]https://www.hubspot.com/hs-fs/hubfs/free-website-builder.png?width=595&height=400&name=free-website-builder.png)(https://www.youtube.com/watch?v=your-video-id)
 
 ## Installation
 
