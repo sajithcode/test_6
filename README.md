@@ -20,7 +20,7 @@ Developed a responsive pharmacy shop website using HTML, CSS, and JavaScript. In
 
 ## Deployment
 
-The website is deployed on Netlify. You can view it [here](https://your-netlify-link.com).
+The website is deployed on Netlify. You can view it [here](https://srs-pharmashop.netlify.app/).
 
 ## Demo Video
 
@@ -37,5 +37,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory
    ```bash
    cd pharmacy-shop
+
+3. Open index.html in your preferred browser.
+
    
-3.Open index.html in your preferred browser.
